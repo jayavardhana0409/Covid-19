@@ -44,4 +44,4 @@ This repository contains SQL queries for analyzing COVID-19 data using two table
 - View: `RollingPeopleVaccinated`
   - Calculates rolling people vaccinated in each country
 
-!(https://github.com/jayavardhana0409/Covid-19/blob/main/covid-19%20dashboard%20.png)
+![](https://github.com/jayavardhana0409/Covid-19/blob/main/covid-19%20dashboard%20.png)
